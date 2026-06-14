@@ -1,0 +1,14 @@
+﻿# OS / editor
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+
+# Office temporary files
+~$*
+*.tmp
+*.temp
+
+# Local exports
+*.bak
